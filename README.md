@@ -8,7 +8,7 @@
 
 <p align="center"><img alt="logo" src="./Shad Azam12.gif" width="2000" height="250"/></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋;_I'm+Shad+Azam....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋;I'm+Shad+Azam....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Full Stack Developer from INDIA</h3><br/>
 
