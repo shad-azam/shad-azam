@@ -90,12 +90,13 @@
     </a>-->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shad-azam&show_icons=true&locale=en&layout=compact" alt="shadazam" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shad-azam&show_icons=true&locale=en&layout=compact" alt="shadazam" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shad-azam&locale=en&layout=compact&theme=radical" alt="shadazam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shad-azam" alt="shadazam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shad-azam&show_icons=true&locale=en&theme=radical" alt="shadazam" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shad-azam&" alt="shadazam" /></p> -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=shad-azam&" alt="GitHub Streak" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shad-azam&show_icons=true&locale=en" alt="shadazam" /></p> -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=shad-azam&show_icons=true&locale=en&theme=radical" alt="GitHub Streak" /></p>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shad-azam)](https://git.io/streak-stats)  -->
 
