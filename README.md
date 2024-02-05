@@ -91,9 +91,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadazam08&show_icons=true&locale=en" alt="shadazam08" /></p>
+<p>&nbsp;<img align="center" src="&show_icons=true&locale=en" alt="shadazam08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadazam08&" alt="shadazam08" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadazam08&" alt="shadazam08" /></p> -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=shad-azam&" alt="GitHub Streak" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shad-azam)](https://git.io/streak-stats)
 
 
 
