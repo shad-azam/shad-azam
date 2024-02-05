@@ -8,7 +8,7 @@
 
 <p align="center"><img alt="logo" src="./Shad Azam12.gif" width="2000" height="250"/></p>
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋;_I'm+Shad+Azam....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)-->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋;_I'm+Shad+Azam....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Full Stack Developer from INDIA</h3><br/>
 
@@ -31,14 +31,8 @@
 <p align="left">
 <a href="https://twitter.com/@mshad_azam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mshad_azam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shad-azam-ab9107244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shad-azam-ab9107244" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21696207/shad-azam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21696207/shad-azam" height="30" width="40" /></a> -->
-<!-- <a href="https://codesandbox.com/https://codesandbox.io/u/shadazam08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/shadazam08" height="30" width="40" /></a> -->
 <a href="https://fb.com/shad.azam.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shad.azam.94" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mshadazam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mshadazam/" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/c/https://www.youtube.com/@theshadazam/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@theshadazam/about" height="30" width="40" /></a> -->
-<!-- <a href="https://www.codechef.com/users/https://www.codechef.com/users/shadazam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shadazam" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/https://leetcode.com/shadazam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shadazam/" height="30" width="40" /></a> -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shadazam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shadazam/" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -76,18 +70,6 @@
      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a>
-    <!--<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a>-->
-    <!--<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a>-->
-    <!--<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a>-->
-    <!--<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a>-->
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shad-azam&show_icons=true&locale=en&layout=compact" alt="shadazam" /></p> -->
@@ -99,9 +81,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=shad-azam&show_icons=true&locale=en&theme=radical" alt="GitHub Streak" /></p>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shad-azam)](https://git.io/streak-stats)  -->
-
-
-
 
 
 
